@@ -1,14 +1,6 @@
 <p align="center">
   <img src="assets/zerox-banner.png" width="100%" />
-</p><!-- Replace the profile content by uploading this file to the repository named exactly: zerox-009 -->
-<div align="center">
-  <img src="assets/zerox-banner.png" alt="ZEROX — Code, Learn, Build, Repeat" width="100%" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+zerox!;Aspiring+Software+Developer;Python+%7C+C%23+%7C+.NET;HTML+%7C+CSS+%7C+JavaScript;Code.+Learn.+Build.+Repeat." alt="Typing introduction" />
-  <br />
-  <a href="https://github.com/zerox-009"><img src="https://img.shields.io/badge/GitHub-zerox--009-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-a855f7?style=for-the-badge" alt="Always learning" />
-</div>
+</p>
 
 ---
 
