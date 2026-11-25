@@ -1,4 +1,6 @@
-<!-- Replace the profile content by uploading this file to the repository named exactly: zerox-009 -->
+<p align="center">
+  <img src="assets/zerox-banner.png" width="100%" />
+</p><!-- Replace the profile content by uploading this file to the repository named exactly: zerox-009 -->
 <div align="center">
   <img src="assets/zerox-banner.png" alt="ZEROX — Code, Learn, Build, Repeat" width="100%" />
   <br />
